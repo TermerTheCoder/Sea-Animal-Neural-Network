@@ -7,3 +7,8 @@ but shows the graph of the cost function. The data used is not
 indicative of the actual animal in real life and is just sample
 data based on average measurements of the creature.
  
+Information about this project:
+- Programmed in Python 3
+- Only uses the NumPy and MatPlot Libraries
+- A 3 node input layer was used with one hidden layer that contains
+  4 nodes which feeds out to a 3 node output layer.
